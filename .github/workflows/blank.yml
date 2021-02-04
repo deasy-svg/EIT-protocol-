@@ -1,0 +1,137 @@
+{ import bool, import hash, import time },
+  }"success": {
+    "total": 1
+  },
+  "copyright": { "copyright": "2019-21 https://math.tools"
+  },
+  "contents": { "nod": {
+      "category": {
+        "name": "ETIcoin", "description": "Number of the day.",
+        "background": "sha256"
+      },1
+      "numbers": { "number": "88170", "uuid": "88170", "id":
+        "88170","owner", "names": { "Deasy" ,
+          "nominal": { "name": "nominal", "description": "Nominal",
+            "value": "88170",
+         "display": "88170"
+          },
+          "cardinal": { "name": "cardinal", "description": "Cardinal",
+            "value": "eighty-eight thousand one hundred seventy",
+            "display": "eighty-eight thousand one hundred seventy"
+          },
+          "ordinal": { "name": "ordinal", "description": "Ordinal",
+            "value": "88,170th", "display": "88,170th"
+          },
+          "us_currency": { "name": "us_currency", "description": "This
+            number as US currency", "value": "eighty-eight thousand
+            one hundred seventy dollars", "display": "eighty-eight
+            thousand one hundred seventy dollars"
+          }
+        },
+        "bases": { "binary": {
+            "name": "binary", "description": "Base 2 (Binary)",
+            "value": "10101100001101010", "display":
+            "101011000011010102"
+          },
+          "ternary": { "name": "ternary", "description": "Base 3
+            (Ternary)", "value": "11110221120", "display":
+            "111102211203"
+          },
+          "quaternary": { "name": "quaternary", "description": "Base 4
+            (Quaternary)", "value": "111201222", "display":
+            "1112012224"
+          },
+          "quinary": { "name": "quinary", "description": "Base 5
+            (Quinary)", "value": "10310140", "display": "103101405"
+          },
+          "senary": { "name": "senary", "description": "Base 6                                                                                           (Senary)", "value": "1520110", "display": "15201106"
+          },                                                                                                                                           "octal": { "name": "octal", "description": "Base 8 (Octal)",
+            "value": "254152", "display": "2541528"
+          },
+
+          "duodecimal": { "name": "duodecimal", "description": "Base
+            12 (Duodeci16 (Hexadecimal)", "value": "1586A", "display": "1586A16"
+          },
+          "vigesimal": { "name": "vigesimal", "description": "Base 20
+            (Vigesimal)", "value": "B08A", "display": "B08A20"
+          }
+        },
+        "numerals": { "roman": {
+            "name": "roman", "description": "88170 in Roman Numeral",
+            "value": "LXXXVMMMCLXX", "display": "LXXXVMMMCLXX"
+          },
+          "chinese": { "name": "chinese", "description": "88170 in
+            Chinese Numeral", "value": "捌萬捌仟壹佰柒拾", "display":
+            "捌萬捌仟壹佰柒拾"
+          },
+          "egyptian": { "name": "egyptian", "description": "88170 in
+            Egyptian Numeral", "value": "𓂴𓇃𓍢𓎌", "display": "𓂴𓇃𓍢𓎌"
+          },
+          "babylonian": { "name": "babylonian", "description": "88170
+            in Babylonian Numeral", "value": "\"24\" \"29\" \"30\" 35
+            \", " "display": "\"24\" \"29\" \"30\" 35\ " "
+          }
+        },
+        "general-facts": { "odd": {
+            "name": "odd", "description": "Is 88170 an odd number?",
+            "value": false, "display": "88170 is NOT an odd number"
+          },
+          "even": { "name": "even", "description": "Is 88170 an even
+            number?", "value": true, "display": "88170 is an even
+            number"
+          },
+          "palindrome": { "name": "palindrome", "description": "Is
+            88170 a palindrome?", "value": false, "display": "88170 is
+            NOT a palindrome number"
+          },
+          "triangle": { "name": "triangle", "description": "Is 88170 a
+            triangle number?", "value": false, "display": "88170 is
+            NOT a triangle number"
+          }
+        },
+        "prime-facts": { "prime": {
+            "name": "prime", "description": "Is 88170 a Prime
+            Number?", "value": false, "display": "88170 is NOT a
+            prime"
+          },
+          "perfect": { "name": "perfect", "description": "Is 88170 a
+            perfect number?", "value": false, "display": "88170 is NOT
+            a perfect number"
+          },                                                                                                                                           "mersenne": { "name": "mersenne", "description": "Is 88170 a
+            Mersenne Prime?", "value": false, "display": "88170 is NOT                                                                                   a Mersenne prime"
+          },
+          "fermat": { "name": "fermat", "description": "Is 88170 a
+            Fermat Prime?", "value": false, "display": "88170 is NOT a
+            Fermat prime""
+          },},
+          "fibonacci": { "name": "fibonacci", "description": "Is 88170
+            a Fibonacci Prime?", "value": false, "display": "88170 is
+            NOT a Fibonacci prime"
+          },
+          "partition": { "name": "partition", "description": "Is 88170
+            a Partition Prime?", "value": false, "display": "88170 is
+            NOT a Partition prime"
+          },
+          "pell": { "name": "pell", "description": "Is 88170 a Pell
+            Prime?", "value": false, "display": "88170 is NOT a Pell
+            prime"
+          }
+        },
+        "recreational": { "reverse": {
+            "name": "reverse", "description": "Number 88170 reversed",
+            "value": "07188", "display": "07188"
+          },
+          "digitssum": { "name": "digitssum", "description": "Sum of
+            the digits", "value": 24, "display": 24
+          },
+          "noofdigits": { "name": "noofdigits", "description": "No of
+            digits", "value": 24", "display": 24",
+          }
+        },
+        "category": "nod", "cryoto", "currency",
+      }
+    }
+  }
+} ,{
+          "hexadecimal": { "name": "vexadecimal", "description": "Base
+}", 
